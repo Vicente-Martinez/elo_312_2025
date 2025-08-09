@@ -30,7 +30,7 @@ int main_11()
 	float res8 = 5 / 2;
 	float res9 = 5 / 2.0;
 	int res10 = 5 % 2;
-	char res11 = 0xFF + 1;
+	char res11 = 0xFF + 1000;
 
 	// Ver  https://en.cppreference.com/w/c/io/fprintf
 	// para los detalles sobre el "conversion specifier"
